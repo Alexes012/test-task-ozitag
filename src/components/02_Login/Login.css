@@ -1,0 +1,18 @@
+.wrapper{
+    min-height: 60vh;
+    width: 100%;
+    background-color: rgb(50, 205, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /*margin-top: 85px;*/
+}
+
+.wrapper h2 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+

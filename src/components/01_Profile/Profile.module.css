@@ -1,0 +1,11 @@
+.profile {
+    min-height: 60vh;
+    background-color: rgb(50, 205, 255);;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
